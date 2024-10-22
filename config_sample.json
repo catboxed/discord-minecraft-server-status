@@ -1,0 +1,17 @@
+{
+    "constants": 
+    {
+        "BOT_TOKEN": "BOT_TOKEN_HERE",
+        "MINECRAFT_SERVER": "SERVER_IP_HERE",
+        "MINECRAFT_SERVER_PORT": "25565",
+        "CHANNEL_ID": "DISCORD_CHANNEL_ID_HERE",
+        "DELAY": 5
+    },
+    "messages":
+    {
+        "SERVER_OFFLINE": "**The Server has gone offline...**",
+        "SERVER_ONLINE": "**The Server is back online!**",
+        "PLAYER_JOINED": "*{player} joined the game*",
+        "PLAYER_LEFT": "*{player} left the game*"
+    }
+}
